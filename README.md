@@ -15,7 +15,6 @@ Foi implementado gravatar para foto de perfil, se o email do usuário tiver um a
 no wordpress ela automaticamente é salva no banco.
 Rotas sensíveis foram protegidas por meio de JWT em conjunto com passport.
 
-
 #### Usando
 - Nodejs
   * Express
