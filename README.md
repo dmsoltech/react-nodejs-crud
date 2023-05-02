@@ -9,12 +9,12 @@
   <img src="./doc/img/crud.gif">
 </p>
 
+
 #### Backend features
 O banco de dados Mongo foi hospedado no MLab por conveniência.
 Foi implementado gravatar para foto de perfil, se o email do usuário tiver um avatar
 no wordpress ela automaticamente é salva no banco.
 Rotas sensíveis foram protegidas por meio de JWT em conjunto com passport.
-
 
 #### Usando
 - Nodejs
@@ -95,3 +95,4 @@ The MIT License (MIT). Please see License File for more information.
 <sub>A little project by <a href="http://www.jeffersonribeiro.com/">Jefferson Ribeiro</a></sub>
 </p>
 
+check it https://github.com/weedgit/react-nodejs-crud
