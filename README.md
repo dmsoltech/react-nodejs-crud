@@ -9,6 +9,7 @@
   <img src="./doc/img/crud.gif">
 </p>
 
+
 #### Backend features
 O banco de dados Mongo foi hospedado no MLab por conveniência.
 Foi implementado gravatar para foto de perfil, se o email do usuário tiver um avatar
